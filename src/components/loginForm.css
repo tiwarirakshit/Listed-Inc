@@ -1,0 +1,39 @@
+.signin-container {
+    width: 280px;
+    margin: 0 auto;
+    padding: 20px;
+    /* border: 1px solid #ccc; */
+    background-color: white;
+    width: 450px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 95%;
+    padding: 10px;
+    border-radius: 10px;
+
+  }
+  
+  button {
+    margin-top: 10px;
+    width: 50%;
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
